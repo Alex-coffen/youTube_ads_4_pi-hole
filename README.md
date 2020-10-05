@@ -1,5 +1,7 @@
 
+```
 cat youtubelist.txt | sed 's/^/||/' | sed 's/$/^/' > youtubelist_adhome.txt
+```
 ```
 Buy me Coffee with XLM GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37
 ```

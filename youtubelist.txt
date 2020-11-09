@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 r1---sn-a5meknlz.googlevideo.com
 r2---sn-a5meknlz.googlevideo.com
 r3---sn-a5meknlz.googlevideo.com
@@ -4119,7 +4118,6 @@ r17.sn-a5meknle.googlevideo.com
 r18.sn-a5meknle.googlevideo.com
 r19.sn-a5meknle.googlevideo.com
 r20.sn-a5meknle.googlevideo.com
-=======
 r1---sn-n4v7knlz.googlevideo.com
 r2---sn-n4v7knlz.googlevideo.com
 r3---sn-n4v7knlz.googlevideo.com
@@ -13216,4 +13214,3 @@ r17.sn-ab5l6nzd.googlevideo.com
 r18.sn-ab5l6nzd.googlevideo.com
 r19.sn-ab5l6nzd.googlevideo.com
 r20.sn-ab5l6nzd.googlevideo.com
->>>>>>> upstream/master
